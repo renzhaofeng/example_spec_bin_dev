@@ -15,7 +15,7 @@
     "ios": "6.0"
   },
   "source": {
-    "http": "http://192.168.50.150:20480/frameworks/YYModel/1.0.4/zip",
+    "http": "http://192.168.9.53:8080/frameworks/YYModel/1.0.4/zip",
     "type": "zip"
   },
   "requires_arc": true,
